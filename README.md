@@ -1,4 +1,4 @@
- ### Hi there, I am Mourad 👋
+ ### Hi there, I am Next-dev 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mouradh1&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouradh1&layout=compact" />
 
